@@ -1,0 +1,7 @@
+ultralytics
+numpy
+opencv-python
+pytube
+filterpy
+scipy
+filterpy
